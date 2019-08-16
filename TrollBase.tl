@@ -1,0 +1,26 @@
+name: Troll Base
+source: TrollElements
+source: TrollItems
+source: TrollTopics
+source: SnowMobile
+source: TrollWestHallway
+source: TrollCentralHallway
+source: TrollEastHallway
+source: TrollYourBedroom
+source: TrollGym
+source: TrollSauna
+source: TrollKitchen
+source: TrollTopOfStairs
+source: TrollFrontOfBase
+source: TrollFootOfHill
+source: TrollPath
+source: TrollAirstrip
+source: TrollHilltop
+source: TrollRadioAntenna
+source: TrollLaboratory
+source: TrollGarage
+source: TrollStorage
+source: TrollCommCenter
+source: TrollOfficeSpace
+source: TrollCommanderOffice
+source: TrollJacquesBedroom
